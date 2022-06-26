@@ -37,7 +37,7 @@ namespace StringExercise2
             if (isDuplicate == true)
                 Console.WriteLine("Duplicate");
 
-                System.Console.WriteLine("ESSA");
+                System.Console.WriteLine("ESSA2");
         }
     }
 }
