@@ -1,0 +1,16 @@
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\bin\Debug\net5.0\StringExercise2.exe
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\bin\Debug\net5.0\StringExercise2.deps.json
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\bin\Debug\net5.0\StringExercise2.runtimeconfig.json
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\bin\Debug\net5.0\StringExercise2.runtimeconfig.dev.json
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\bin\Debug\net5.0\StringExercise2.dll
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\bin\Debug\net5.0\StringExercise2.pdb
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.csproj.AssemblyReference.cache
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.AssemblyInfoInputs.cache
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.AssemblyInfo.cs
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.dll
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\obj\Debug\net5.0\refint\StringExercise2.dll
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.pdb
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.genruntimeconfig.cache
+C:\Users\Mateusz Jankowicki\Desktop\Projects\StringExercise2\StringExercise2\obj\Debug\net5.0\ref\StringExercise2.dll
